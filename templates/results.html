@@ -1,0 +1,19 @@
+{%extends "base.html"%}
+
+{%block content%}
+
+<h1>Game Results</h1>
+
+<div>
+    <p>
+        {{ game.result }}
+    </p>
+    <p>
+        {{ game.player1.choice }}
+    </p>
+    <p>
+        {{ game.player2.choice }}
+    </p>
+</div>
+
+{%endblock%}
