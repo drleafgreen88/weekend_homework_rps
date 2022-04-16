@@ -1,0 +1,16 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    margin: 0px;
+    padding: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+
+body > h1 {
+    background-color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
