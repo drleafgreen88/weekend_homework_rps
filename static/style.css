@@ -14,3 +14,7 @@ body > h1 {
     text-align: center;
     text-decoration: underline;
 }
+
+form {
+    text-align: center;
+}
